@@ -1,0 +1,4 @@
+job=denovo,genome,accurate
+
+parameters = COMMON_SETTINGS -GENERAL:number_of_threads=15 -DI:trt /scratch/tmpmir/ -NW:cmrnl=warn \
+-OUT:output_result_caf=no -OUT:output_result_maf=no -OUT:output_result_ace=no -OUT:output_result_tcs=no\
