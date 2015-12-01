@@ -1,0 +1,56 @@
+2015-09-30 13:26:22,715 - INFO - start sending email
+2015-09-30 13:26:23,157 - ERROR - Failed to send the mail
+2015-09-30 13:27:23,965 - INFO - start sending email
+2015-09-30 13:27:24,532 - ERROR - Failed to send the mail
+2015-09-30 13:27:45,770 - INFO - start sending email
+2015-09-30 13:28:02,787 - ERROR - Failed to send the mail
+2015-09-30 13:28:22,019 - INFO - start sending email
+2015-09-30 13:28:22,655 - ERROR - Failed to send the mail
+2015-09-30 13:28:30,867 - INFO - start sending email
+2015-09-30 13:28:32,153 - INFO - Successfully sent the mail to 
+ ['anatoly.developer@gmail.com', 'natasha.klmnk@gmail.com'] 
+
+2015-09-30 13:28:46,646 - INFO - start sending email
+2015-09-30 13:28:47,656 - INFO - Successfully sent the mail to 
+ ['anatoly.de.v.e.loper@gmail.com', 'natasha.k.l.m.nk@gmail.com'] 
+
+2015-09-30 14:04:37,173 - ERROR - Is success: False, message: Data file data/R1.fastq not found
+2015-09-30 14:04:37,174 - INFO - start sending email
+2015-09-30 14:04:38,456 - INFO - Successfully sent the mail to 
+ ['paraslonic@gmail.com'] 
+
+2015-09-30 14:05:16,532 - ERROR - Is success: False, message: Data file data/R1.fastq not found
+2015-09-30 14:05:16,533 - INFO - start sending email
+2015-09-30 14:05:17,770 - INFO - Successfully sent the mail to 
+ ['paraslonic@gmail.com'] 
+
+2015-11-02 17:42:27,010 - INFO - start sending email
+2015-11-02 17:42:28,244 - INFO - Successfully sent the mail to 
+ ['anatoly.developer@gmail.com', 'natasha.klmnk@gmail.com'] 
+
+2015-11-02 17:42:59,432 - INFO - start sending email
+2015-11-02 17:43:00,558 - INFO - Successfully sent the mail to 
+ ['natasha.klmnk@gmail.com'] 
+
+2015-11-02 17:44:42,280 - INFO - start sending email
+2015-11-02 17:45:06,325 - INFO - start sending email
+2015-11-02 17:45:07,452 - INFO - Successfully sent the mail to 
+ ['natasha.klmnk@gmail.com'] 
+
+2015-11-02 17:45:36,269 - INFO - start sending email
+2015-11-02 17:45:37,385 - INFO - Successfully sent the mail to 
+ ['natasha.klmnk@gmail.com'] 
+
+2015-11-02 17:48:28,381 - INFO - start sending email
+2015-11-02 17:48:29,598 - INFO - Successfully sent the mail to 
+ ['natasha.klmnk@gmail.com'] 
+
+2015-11-02 17:50:50,955 - INFO - start sending email
+2015-11-02 17:50:52,007 - INFO - Successfully sent the mail to 
+ ['natasha.klmnk@gmail.com'] 
+
+2015-11-02 17:52:49,655 - INFO - start sending email
+2015-11-02 17:53:01,195 - INFO - start sending email
+2015-11-02 17:53:02,273 - INFO - Successfully sent the mail to 
+ ['natasha.klmnk@gmail.com'] 
+

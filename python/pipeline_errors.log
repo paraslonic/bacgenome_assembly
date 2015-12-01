@@ -1,0 +1,6 @@
+2015-09-30 13:26:23,157 - ERROR - Failed to send the mail
+2015-09-30 13:27:24,532 - ERROR - Failed to send the mail
+2015-09-30 13:28:02,787 - ERROR - Failed to send the mail
+2015-09-30 13:28:22,655 - ERROR - Failed to send the mail
+2015-09-30 14:04:37,173 - ERROR - Is success: False, message: Data file data/R1.fastq not found
+2015-09-30 14:05:16,532 - ERROR - Is success: False, message: Data file data/R1.fastq not found
