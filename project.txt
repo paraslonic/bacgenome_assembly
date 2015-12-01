@@ -1,0 +1,9 @@
+# GLENGTH =  1900000
+# natasha.klmnk@gmail.com
+# CPU = 15
+
+readgroup = group1
+data = reads/NN90_S11_L001_R1_001_subset.fastq reads/NN90_S11_L001_R2_001_subset.fastq
+technology = solexa
+template_size = 250 750
+segment_placement = ---> <---
